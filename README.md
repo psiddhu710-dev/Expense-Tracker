@@ -53,3 +53,4 @@ Required:
 - If `MONGODB_URI` is not configured, the backend automatically starts a MongoDB memory server for local development.
 - Production email delivery requires valid SMTP or Resend credentials.
 - The app is built to demonstrate a real OTP workflow with actual email delivery when configured.
+
